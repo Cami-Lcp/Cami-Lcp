@@ -1,4 +1,4 @@
-## About me 🙃 I am a publicist and now I have decided to switch to Front End Area.
+## 🙃 I am a publicist and now I have decided to switch to Front End Area. 🙃
 
 <div align="center">
   <a href="https://github.com/Cami-Lcp">
